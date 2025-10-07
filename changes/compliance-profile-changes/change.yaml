@@ -1,7 +1,7 @@
 id: compliance-profile-changes
-date: 2025-10-06T17:26
+date: 2025-10-07T10:36
 author: "@Dmytro-Yatsenko"
 title: "Compliance profile"
-description: "I added the edit icons with the comment for Max I suggest using a bit different assign icon (similar to edit but with a plus) to avoid confusion with the adding a rule. The filter fields were removed from the rule details info"
+description: "Added edit icons. An “assign” icon was changed (similar to edit but with a plus). Removed filter fields from the rule details info."
 public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=237-5064&p=f&t=WTNXoETx7FFdoubJ-0"
-pr_number: 8
+pr_number: 13
