@@ -1,0 +1,8 @@
+id: related-certificates-edits
+date: 2025-08-21T16:55
+author: "@OlhaIvanova-designer"
+title: "Related Certificates - edits"
+description: >
+  Prepared 2 Relation column options: Text only (Predecessor / Successor), Text + arrows (← Predecessor / Successor →) Also: added filters in “Add Certificate to Related” popup, updated table with all Inventory columns, changed button to “Add,” added pagination.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=686-46141&t=X2nF8NaoemdVkRk5-1"
+pr_number: 7

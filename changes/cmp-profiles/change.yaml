@@ -1,0 +1,8 @@
+id: cmp-profiles
+date: 2025-09-12T19:41
+author: "@OlhaIvanova-designer"
+title: "CMP Profiles - UI edits"
+description: >
+  Added the missing data and fields to the CMP Profiles pages. Made tables more compact by decreasing cell padding from 20px to 12px.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=352-10844&t=bconOEAbu7ndFDyG-1"
+pr_number: 7

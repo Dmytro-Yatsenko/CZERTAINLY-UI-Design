@@ -1,0 +1,8 @@
+id: discoveries-inventory-edits
+date: 2025-09-12T19:04
+author: "@OlhaIvanova-designer"
+title: "Discoveries Inventory - UI edits"
+description: >
+  Added the missing data and fields to the Discoveries Inventory pages. Made tables more compact by decreasing cell padding from 20px to 12px.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=187-1798&t=bconOEAbu7ndFDyG-1"
+pr_number: 7

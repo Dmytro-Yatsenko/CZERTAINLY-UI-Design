@@ -1,0 +1,8 @@
+id: inventory-authorities-edits
+date: 2025-09-12T19:29
+author: "@OlhaIvanova-designer"
+title: "Inventory Authorities - UI edits"
+description: >
+  Added the missing data and fields to the Inventory Authorities pages. Made tables more compact by decreasing cell padding from 20px to 12px.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=336-22806&t=bconOEAbu7ndFDyG-1"
+pr_number: 7
