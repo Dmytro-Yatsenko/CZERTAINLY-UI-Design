@@ -1,0 +1,8 @@
+id: compliance-result-certificate-validation
+date: 2025-08-05T11:57
+author: "@OlhaIvanova-designer"
+title: "Compliance Status widget on Certificate Validation page"
+description: >
+  1. Implemented the Compliance Status widget (Overall status, timestamp, and table of failed rules) on the Validation tab of Certificate.
+public_url: "https://www.figma.com/design/5zrgHfoXeiAe1bGUgZ6vfF/%D0%A1zertainly?node-id=133-1568&t=Au6arYK3EQVDXDBv-1"
+pr_number: 7
